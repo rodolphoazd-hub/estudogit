@@ -1,0 +1,23 @@
+👨‍💻 Desenvolvedor Full Stack | Gerente de Projetos | Apaixonado por Inovação e Tecnologias Emergentes
+
+Com uma sólida experiência em desenvolvimento de software e gestão de projetos, sou especializado na criação de soluções escaláveis e de alto desempenho. Tenho um profundo conhecimento em várias tecnologias e ferramentas, incluindo:
+
+🔧 Tecnologias e Frameworks:
+
+Mobile Development: React Native, Flutter, Dart
+Web Development: .NET, Python, React
+Banco de Dados: PostgreSQL, MySQL
+Versionamento e Controle de Código: Git, GitHub, GitLab
+Cloud & DevOps: Azure, CI/CD
+🚀 Gestão de Projetos:
+
+Experiência liderando equipes multidisciplinares e gerenciando projetos de desenvolvimento desde a concepção até a entrega, utilizando metodologias ágeis como Scrum e Kanban.
+Capacidade de planejar, executar e entregar projetos de software dentro do prazo e orçamento, focando sempre na qualidade e no alinhamento com as necessidades do cliente.
+📈 Outras Habilidades:
+
+Forte capacidade de resolução de problemas e tomada de decisões estratégicas.
+Comunicação clara e eficaz, tanto com equipes técnicas quanto com stakeholders, garantindo uma gestão de projetos eficiente.
+Foco em inovação contínua e melhoria de processos.
+🌱 Sempre aprendendo: Estou constantemente explorando novas tecnologias e tendências para melhorar minhas habilidades como desenvolvedor e líder de projetos. Acredito na colaboração e no compartilhamento de conhecimento para crescer como profissional e ajudar as equipes a atingirem seus objetivos.
+
+🔗 Conecte-se comigo: Sinta-se à vontade para explorar meus repositórios, abrir issues, ou colaborar em projetos. Adoro trabalhar em equipe e contribuir para a comunidade de desenvolvedores!
